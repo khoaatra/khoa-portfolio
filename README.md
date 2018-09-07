@@ -1,2 +1,4 @@
-# khoa-portfolio
-This is my professional portfolio
+#Khoa's portfolio.
+
+This is my professional portfolio. It uses AWS and ReacJS
+
